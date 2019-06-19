@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-Adress-Book/static/css/main.c046a828.chunk.css",
+    "main.js": "/REACT-Adress-Book/static/js/main.4ae5ca13.chunk.js",
+    "main.js.map": "/REACT-Adress-Book/static/js/main.4ae5ca13.chunk.js.map",
+    "runtime~main.js": "/REACT-Adress-Book/static/js/runtime~main.0f9ac088.js",
+    "runtime~main.js.map": "/REACT-Adress-Book/static/js/runtime~main.0f9ac088.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/REACT-Adress-Book/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/REACT-Adress-Book/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/REACT-Adress-Book/index.html",
+    "precache-manifest.ac114f6e36cc765620d9371abcd13993.js": "/REACT-Adress-Book/precache-manifest.ac114f6e36cc765620d9371abcd13993.js",
+    "service-worker.js": "/REACT-Adress-Book/service-worker.js",
+    "static/css/main.c046a828.chunk.css.map": "/REACT-Adress-Book/static/css/main.c046a828.chunk.css.map"
+  }
+}
